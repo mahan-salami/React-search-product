@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "image": "https://pngimg.com/d/iphone_14_PNG41.png",
+        "title": "Apple Iphone 14",
+        "price": 335
+    },
+    {
+        "id": 2,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bztcins-thumb-539573311",
+        "title": "Samsung Galaxy s24",
+        "price": 450
+    },
+    {
+        "id": 3,
+        "image": "https://images.samsung.com/is/image/samsung/assets/nz/support/mobile-devices/how-to-activate-samsung-earbuds/1111.png?$ORIGIN_PNG$",
+        "title": "Samsung earbuds",
+        "price": 200
+    }
+
+    
+]
+
+

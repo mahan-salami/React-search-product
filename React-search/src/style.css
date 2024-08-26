@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(209,204,204);
+}
+.templateContainer{
+    margin: 5% 0;
+   
+}
+.templateContainer > .searchInput_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    text-decoration: none;
+}
+.templateContainer > .searchInput_Container input{
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    height: 30px;
+    background: rgba(32, 29, 29, 0.5);
+    color: #fff;
+}
+.templateContainer .template_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.templateContainer .template_Container .template{
+    background-color: white;
+    margin: 30px;
+    padding: 0px 20px;
+    border-radius: 10px;
+    transition: 0.5s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.templateContainer .template_Container .template img{
+    height: 250px;
+    margin-top: 30px;
+}
+
+.templateContainer .template_Container .template:hover {
+    transition: 0.5s;
+    background-color: rgb(65, 65, 65);
+    color: white;
+    transform: translateY(-4%);
+}
